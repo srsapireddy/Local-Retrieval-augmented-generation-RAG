@@ -14,7 +14,7 @@
 1. Search and answer (steps 4-6).</br>
 2. And that's the structure we'll follow.</br>
 
-It's similar to the workflow outlined on the NVIDIA blog which details a local RAG pipeline: https://developer.nvidia.com/blog/rag-101-demystifying-retrieval-augmented-generation-pipelines/
+It's similar to the workflow outlined on the NVIDIA blog which details a local RAG pipeline: </br >https://developer.nvidia.com/blog/rag-101-demystifying-retrieval-augmented-generation-pipelines/
 
 ![image](https://github.com/srsapireddy/Local-RAG/assets/32967087/b391d0a2-5bb7-410b-a14a-1c4508469454)
 
